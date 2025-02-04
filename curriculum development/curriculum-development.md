@@ -70,14 +70,17 @@ What good does user research/design do for OSS?*
 **Quote:** *Before our intervention we found the development team framing their discussion of users as a discussion of the conflict between designing for “dumb end-users” or for highly skilled “administrator-users”. The survey and the associated discussion on the list suggest that our intervention pushed some developers’ attitude from antipathy towards empathy with end-users.*
 
 **Paper:**https://dl.acm.org/doi/10.1145/3170427.3188395
-**Quote:** *"I don’t have time to create an open-source project from my research." We believe that even a five-minute open-source release which solely consists of a project snapshot and a license file is better than none at all. In addition, this is likely due to the aforementioned "chicken-and-egg" problem. If the community would value these contributions as equal to a published paper - or better yet, as integral part of the publication - researchers would not consider the time spent preparing such a contribution as wasted.
-Getting creative*
+**Quote:** *"I don’t have time to create an open-source project from my research." We believe that even a five-minute open-source release which solely consists of a project snapshot and a license file is better than none at all. In addition, this is likely due to the aforementioned "chicken-and-egg" problem. If the community would value these contributions as equal to a published paper - or better yet, as integral part of the publication - researchers would not consider the time spent preparing such a contribution as wasted.*
+
+### Getting creative
 
 **Paper:**https://dl.acm.org/doi/pdf/10.1145/3613904.3642686
 **Quote:** *Design Cards can be inspirational tools and facilitate creativity when ideation becomes “unproductive”. Designers use cards to plan and guide formative and heuristic evaluation of design concepts and existing systems. Cards facilitate collaborative practices, such as discussion, turn-taking, and the exchange of ideas among team members. Further, design cards, such as responsible & inclusive (R&I) cards, support critical refections on broader impacts of designs…The cards also supported the design ideation by allowing participants to diverge from their unidirectional thinking while revealing domain specific issues they may not be aware of or consider when devising ideas.*
 
 **Paper:**https://www.tandfonline.com/doi/abs/10.3166/jds.10.339-378
 **Quote:** *We have assumed that the required level of creativity can be achieved by looking at a context much broader than the computer system itself. (in reference to building complex computational decision making systems)…the hypothesis that there exists a relationship between creativity, tacit knowledge, and contextualisation.*
+
+![Diagram of Creativity](x.png "Diagram of Creativity") 
 
 ### Quantitative Analytic methods to assess design e.g. A/B tests
 
@@ -132,6 +135,7 @@ It can be difficult to get started with user research and the ability to ask the
 **Quote:** *Insights into the extent to which scientists followed strict experimental protocols (i.e. sets of instructions for conducting an experiment), and when and why they might deviate from such protocols have helped to inform the development of OMERO’s Protocol Editor functionality. Edibility of stages of protocols is supported, enabling users to start with a template protocol and document deviations from or adaptations of this as required; although the inertia of encouraging potentially laborious data input for no immediate benefit is still to be fully addressed.*
 
 ### User testing, usability testing, user research contextual inquiry
+
 **Paper:** https://web.archive.org/web/20090625141639/http://mpt.net.nz/archive/2008/08/01/free-software-usability
 **Quote:** *Usability is hard to measure. Some qualities of software are easily and precisely measured: whether it runs at all, how fast it starts, how fast it runs, and whether it is technically correct. Without frequent user testing, volunteer projects rely on subjective feedback from the sort of people devoted enough to be subscribed to a project mailing list. But what these people say may not be representative of even their own actual behavior, let alone the behavior of users in general.*
 
