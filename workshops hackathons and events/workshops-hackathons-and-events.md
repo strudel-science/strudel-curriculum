@@ -65,6 +65,17 @@ We have been offered two 2 hour slots in order to offer STRUDEL and Better Desig
 
 ## Suggestions on activities to test in workshops/events/hackathons
 
+- For [Value Propositions](https://miro.com/app/board/uXjVLtG9irE=/?moveToWidget=3458764613441930531&cot=14), the first paper based exercise that allows attendees to explore the intended purposes of their technology for different users. We can consider making the template possible as a very simple STRUDEL Taskflow. This might enable the attendees to build the most basic 'Input field' and data connection taskflow so that they are not overhwhelmed at first by a comprehensive and 'complete looking' STRUDEL taskflow like 'Contribute Data'. 
+This would show:
+1. How to get base level STRUDEL dependancies on a local machine.
+2. A simple 4 text input area and connecting text.
+3. Have the text input are informed by a data source of 4 cells of information.
+
+This shows some of the simpliest functionality of STRUDEL while also having the attendees strategically think about product/technology and user motivation and needs.
+
+- Integrate the recommendations above in  the learnings section.
+
+
 From [Mike Morrison](https://bsky.app/profile/mikemorrison.bsky.social) of https://www.better.science/
 
 1. The science of how visual attention works. How to guide people’s eyes through a hierarchy of content with cited references.
